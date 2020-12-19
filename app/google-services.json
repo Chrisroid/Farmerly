@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "752579878905",
+    "project_id": "farmerly",
+    "storage_bucket": "farmerly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752579878905:android:352dc6292d13b09566a728",
+        "android_client_info": {
+          "package_name": "com.farmerly.agricommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752579878905-28kbtulgbhk4vvokmi12bhrsnjvcsv15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmerly.agricommerce",
+            "certificate_hash": "c9560add5b1c7f016cd28cc3b0d91516935fdd86"
+          }
+        },
+        {
+          "client_id": "752579878905-j2eadfmnmtfdl2cd4jvkb4odnh6u3mr2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farmerly.agricommerce",
+            "certificate_hash": "2418ab7042ba88a112a25a8d4586e98eae54434f"
+          }
+        },
+        {
+          "client_id": "752579878905-tds9f34k08gvqf4jdiqh62h7gbe5p5na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGet3fH9R5ftC68M4rT8Zk67_aZmZyaUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752579878905-tds9f34k08gvqf4jdiqh62h7gbe5p5na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">752579878905-tds9f34k08gvqf4jdiqh62h7gbe5p5na.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">752579878905</string>
+    <string name="google_api_key" translatable="false">AIzaSyAGet3fH9R5ftC68M4rT8Zk67_aZmZyaUc</string>
+    <string name="google_app_id" translatable="false">1:752579878905:android:352dc6292d13b09566a728</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAGet3fH9R5ftC68M4rT8Zk67_aZmZyaUc</string>
+    <string name="google_storage_bucket" translatable="false">farmerly.appspot.com</string>
+    <string name="project_id" translatable="false">farmerly</string>
+</resources>

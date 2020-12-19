@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: am.appwise.components:NoInternetDialog:1.1.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://C:/.gradle/caches/transforms-2/files-2.1/b3fcc93027b829bf90ec5b13139c90f7/jetified-NoInternetDialog-1.1.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://C:/.gradle/caches/transforms-2/files-2.1/b3fcc93027b829bf90ec5b13139c90f7/jetified-NoInternetDialog-1.1.3/AndroidManifest.xml" />
+      <root url="jar://C:/.gradle/caches/transforms-2/files-2.1/b3fcc93027b829bf90ec5b13139c90f7/jetified-NoInternetDialog-1.1.3/jars/classes.jar!/" />
+      <root url="file://C:/.gradle/caches/transforms-2/files-2.1/b3fcc93027b829bf90ec5b13139c90f7/jetified-NoInternetDialog-1.1.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://C:/.gradle/caches/modules-2/files-2.1/am.appwise.components/NoInternetDialog/1.1.3/55e7ac69dba2c5824b42bc2bbf849e41fad720db/NoInternetDialog-1.1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://C:/.gradle/caches/modules-2/files-2.1/am.appwise.components/NoInternetDialog/1.1.3/1e30308163ff93de8a221bf01f65fb6605345d5/NoInternetDialog-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
